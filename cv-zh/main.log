@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.7.9)  13 JUL 2014 11:25
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.7.9)  14 AUG 2014 16:27
 entering extended mode
  %&-line parsing enabled.
 **main.tex
@@ -3117,11 +3117,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 13855 strings out of 493848
- 207023 string characters out of 1152824
- 306324 words of memory out of 3000000
- 16637 multiletter control sequences out of 15000+50000
- 94343 words of font info for 166 fonts, out of 3000000 for 9000
+ 13879 strings out of 493848
+ 207372 string characters out of 1152824
+ 308324 words of memory out of 3000000
+ 16660 multiletter control sequences out of 15000+50000
+ 94639 words of font info for 167 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,12n,45p,766b,1121s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
@@ -3161,9 +3161,9 @@ r/share/texmf/fonts/type1/arphic/gbsnu/gbsnu9a.pfb></usr/share/texmf/fonts/type
 /usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1
 /public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></u
 sr/share/texmf-texlive/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on main.pdf (1 page, 372236 bytes).
+Output written on main.pdf (1 page, 379184 bytes).
 PDF statistics:
- 297 PDF objects out of 1000 (max. 8388607)
+ 298 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
  22250 words of extra memory for PDF output out of 24883 (max. 10000000)
 
