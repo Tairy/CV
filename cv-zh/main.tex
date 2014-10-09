@@ -49,64 +49,87 @@
 %            content
 %----------------------------------------------------------------------------------
 \begin{document}
-\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+\begin{CJK*}{UTF8}{gkai}                          % to typeset your resume in Chinese using CJK
 %-----       resume       ---------------------------------------------------------
 \makecvtitle
 
-\section{教育经历}
-\cventry{2011.9--今}{东南大学}{物理系}{本科}{{}}{光信息科学与技术专业}  % arguments 3 to 6 can be left empty
+\section{教育经历  \& 求职意向}
+\cventry{教育经历}{2011.9--今}{东南大学}{物理系}{本科}{光信息科学与技术专业}  % arguments 3 to 6 can be left empty
+\cvitem{求职意向}{Web开发或软件开发}
 %\cventry{year--year}{Degree}{Institution}{City}{\textit{Grade}}{Description}
-
+%\section{求职意向}
+%\cvitem{}{Web开发或相关工作}
 %\section{工作&项目经验}
 %\cvitem{title}{\emph{Title}}
 %\cvitem{supervisors}{Supervisors}
 %\cvitem{description}{Short thesis abstract}
 
-\section{工作\&项目经验}
-\subsection{东南大学先声网(\href{http://herald.seu.edu.cn}{herald.seu.edu.cn})}
-\cventry{2012.3--今}{技术开发}{}{}{}{
-项目经验:%
+\section{技术能力}
+\cvitemwithcomment{}{LAMP \& MVC \& ThinkPHP}{熟悉}
+\cvitemwithcomment{}{HTML5 \& CSS \& Javascript \& JQuery}{熟悉}
+\cvitemwithcomment{}{Linux \& Git \& Markdown}{熟悉}
+\cvitemwithcomment{}{C++  \& Qt}{掌握}
+\cvitemwithcomment{}{Rails \& Express  \& Tornado}{了解}
+\cvitemwithcomment{}{Mongodb \& Redis \& Memcached}{了解}
+
+\section{工作 \& 项目经验}
+\cventry{学校}{东南大学先声网 (herald.seu.edu.cn)}{}{}{}{
 \begin{itemize}%
 \item 先声网社团信息平台\&先声网投票平台:
   \begin{itemize}
-    \item 持续更新三个版本,先后使用PHP+Mysql、ThinkPHP框架,我负责PHP部分的开发。
+    \item 使用ThinkPHP+Mysql+JQuery+Bootstrap开发。
   \end{itemize}
-\item 先声网用户中心\&先声网Andorid客户端API:
+\item 先声网用户中心\&先声网客户端API:
   \begin{itemize}%
-    \item 为先声网所有应用登录和客户端活动信息模块提供API,我负责API设计、开发和文档的工作。
+    \item 包含API的设计、开发和文档工作(php)。
+  \end{itemize}
+\item 微信后台机器人:
+  \begin{itemize}%
+    \item 实现与微信公众帐号开发模式后台(php)。
+  \end{itemize}
+\item 微搜索Wordpress插件:
+  \begin{itemize}%
+    \item 为微搜索实现的wordpress插件(php)。
+  \end{itemize}
+\item 爬虫:
+  \begin{itemize}%
+    \item 实现抓取学校课表、人人网信息等功能(python/php/ruby)。
   \end{itemize}
 \item 个人博客系统:
   \begin{itemize}%
-    \item 使用Express实现的个人博客，即我的个人主页：\href{http://blog.tairy.me}{项目地址。}
+    \item 实现的个人博客，即我的个人主页：http://blog.tairy.me(nodejs)。
   \end{itemize}
 \item Ulink:
   \begin{itemize}%
-    \item 基于微信和pcduino的物联网控制系统：\href{https://github.com/Tairy/zaihuitou}{项目地址。}
+    \item 基于微信和pcduino的物联网控制系统，黑客马拉松获得最佳完成奖(python)。
+  \end{itemize}
+\item 人脸识别:
+  \begin{itemize}%
+    \item 基于opencv的人脸表情识别(C++/Qt)。
   \end{itemize}
 \item 平时还负责维护先声网服务器和数据库，以及个人VPS。
 \end{itemize}}
+\cventry{实习}{暴走漫画 (baozou.com)}{}{}{}{参与暴走日报项目，主要学习了Rails和Tornado框架}
 
-%\cventry{year--year}{Job title}{Employer}{City}{}{Description line 1\newline{}Description line 2}
-\subsection{暴走漫画公司(\href{http://baozou.com}{baozou.com})}
-\cventry{2014.6--今}{实习}{}{}{}{参与暴走日报项目，主要学习了Rails和Tornado框架}
+%\section{技术能力}
+%\cvitem{熟悉}{LAMP \& MVC \& ThinkPHP}
+%\cvitem{熟悉}{HTML5 \& CSS \& Javascript \& JQuery}
+%\cvitem{熟悉}{Linux \& Git \& Markdown \& JQuery}
+%\cvitem{掌握}{C++  \& Qt}
+%\cvitem{了解}{Rails \& Express  \& Tornado}
+%\cvitem{了解}{Redis \& Android}
 
-%\section{Languages}
-%\cvitemwithcomment{Language 1}{Skill level}{Comment}
-%\cvitemwithcomment{Language 2}{Skill level}{Comment}
-%\cvitemwithcomment{Language 3}{Skill level}{Comment}
-
-\section{技术能力}
-\cvitem{}{以下列举我使用过的一些编程语言和工具,其中熟悉或经常使用为*标记。}
+%\cvitem{}{以下列举我使用过的一些编程语言和工具,其中熟悉或经常使用为*标记。}
 %\cvdoubleitem{}{编程语言}{}{标记语言}
 %\cvitem{}{\rule[15px]{\linewidth}{0.1pt}}
-\cvlistdoubleitem{PHP*}{HTML*}
-\cvlistdoubleitem{Javascript*}{CSS*}
-\cvlistdoubleitem{C++}{Markdown*}
-\cvlistdoubleitem{Git*}{Linux*}
-\cvlistdoubleitem{JQuery*}{ThinkPHP*}
-\cvlistdoubleitem{Express}{Mysql*}
-\cvlistdoubleitem{Rails}{Tornado}
-\cvlistdoubleitem{Redis}{}
+%\cvlistdoubleitem{PHP*}{HTML*}
+%\cvlistdoubleitem{Javascript*}{CSS*}
+%\cvlistdoubleitem{C++}{Markdown*}
+%\cvlistdoubleitem{Git*}{Linux*}
+%\cvlistdoubleitem{JQuery*}{ThinkPHP*}
+%\cvlistdoubleitem{Express}{Mysql*}
+%\cvlistdoubleitem{Rails}{Tornado}
+%\cvlistdoubleitem{Redis}{}
 
 
 %\section{Interests}

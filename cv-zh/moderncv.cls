@@ -381,7 +381,7 @@
 
 % makes a resume entry with a proficiency comment
 % usage: \cvitemwithcomment[spacing]{header}{text}{comment}
-\newcommand*{\cvitemwithcomment}[4][.25em]{}
+\newcommand*{\cvitemwithcomment}[4][.15em]{}
 
 % makes a generic hyperlink
 % usage: \link[optional text]{link}
