@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.9.1)  9 OCT 2014 12:50
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.9.1)  9 OCT 2014 13:09
 entering extended mode
  %&-line parsing enabled.
 **main.tex
@@ -3079,7 +3079,7 @@ File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 \makecvtitlepicturebox=\box32
 
-<picture.png, id=18, 73.9563pt x 91.0602pt>
+<picture.png, id=22, 73.9563pt x 91.0602pt>
 File: picture.png Graphic file (type png)
  <use picture.png>
 \makecvtitledetailswidth=\skip79
@@ -3123,11 +3123,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 13855 strings out of 493848
- 207003 string characters out of 1152824
- 303323 words of memory out of 3000000
- 16625 multiletter control sequences out of 15000+50000
- 96618 words of font info for 165 fonts, out of 3000000 for 9000
+ 13887 strings out of 493848
+ 207516 string characters out of 1152824
+ 305323 words of memory out of 3000000
+ 16651 multiletter control sequences out of 15000+50000
+ 97795 words of font info for 169 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,12n,45p,766b,1124s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
@@ -3154,29 +3154,29 @@ iu72.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu73.pfb></usr/share/tex
 mf/fonts/type1/arphic/gkaiu/gkaiu74.pfb></usr/share/texmf/fonts/type1/arphic/gk
 aiu/gkaiu75.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu76.pfb></usr/sh
 are/texmf/fonts/type1/arphic/gkaiu/gkaiu77.pfb></usr/share/texmf/fonts/type1/ar
-phic/gkaiu/gkaiu79.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu7a.pfb><
-/usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu7b.pfb></usr/share/texmf/fonts/t
-ype1/arphic/gkaiu/gkaiu7c.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu7
-d.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu7e.pfb></usr/share/texmf/
-fonts/type1/arphic/gkaiu/gkaiu7f.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu
-/gkaiu80.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu81.pfb></usr/share
-/texmf/fonts/type1/arphic/gkaiu/gkaiu83.pfb></usr/share/texmf/fonts/type1/arphi
-c/gkaiu/gkaiu86.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu88.pfb></us
-r/share/texmf/fonts/type1/arphic/gkaiu/gkaiu89.pfb></usr/share/texmf/fonts/type
-1/arphic/gkaiu/gkaiu8b.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu8c.p
-fb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu8d.pfb></usr/share/texmf/fon
-ts/type1/arphic/gkaiu/gkaiu8f.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gk
-aiu90.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu97.pfb></usr/share/te
-xmf/fonts/type1/arphic/gkaiu/gkaiu98.pfb></usr/share/texmf/fonts/type1/arphic/g
-kaiu/gkaiu9a.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu9e.pfb></usr/s
-hare/texmf/fonts/type1/arphic/gkaiu/gkaiuff.pfb></usr/share/texmf/fonts/type1/p
-ublic/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/sh
-are/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/publ
-ic/lm/lmsso10.pfb></usr/share/texmf-texlive/fonts/type1/public/marvosym/marvosy
-m.pfb>
-Output written on main.pdf (1 page, 381105 bytes).
+phic/gkaiu/gkaiu78.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu79.pfb><
+/usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu7a.pfb></usr/share/texmf/fonts/t
+ype1/arphic/gkaiu/gkaiu7b.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu7
+c.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu7d.pfb></usr/share/texmf/
+fonts/type1/arphic/gkaiu/gkaiu7e.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu
+/gkaiu7f.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu80.pfb></usr/share
+/texmf/fonts/type1/arphic/gkaiu/gkaiu81.pfb></usr/share/texmf/fonts/type1/arphi
+c/gkaiu/gkaiu83.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu86.pfb></us
+r/share/texmf/fonts/type1/arphic/gkaiu/gkaiu88.pfb></usr/share/texmf/fonts/type
+1/arphic/gkaiu/gkaiu89.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu8b.p
+fb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu8c.pfb></usr/share/texmf/fon
+ts/type1/arphic/gkaiu/gkaiu8d.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gk
+aiu8f.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu90.pfb></usr/share/te
+xmf/fonts/type1/arphic/gkaiu/gkaiu97.pfb></usr/share/texmf/fonts/type1/arphic/g
+kaiu/gkaiu98.pfb></usr/share/texmf/fonts/type1/arphic/gkaiu/gkaiu9a.pfb></usr/s
+hare/texmf/fonts/type1/arphic/gkaiu/gkaiu9e.pfb></usr/share/texmf/fonts/type1/a
+rphic/gkaiu/gkaiuff.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></us
+r/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/pu
+blic/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/
+share/texmf-texlive/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on main.pdf (1 page, 391163 bytes).
 PDF statistics:
- 329 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
- 22270 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 338 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 500000)
+ 22282 words of extra memory for PDF output out of 24883 (max. 10000000)
 
